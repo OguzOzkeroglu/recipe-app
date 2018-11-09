@@ -1,4 +1,4 @@
-package com.ouz.recipe;
+package com.ouz.recipe.model;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
